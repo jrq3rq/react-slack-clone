@@ -13,6 +13,15 @@ Real-time database(Firebase)
 
 ```
 
+## Dependencies
+
+```shell
+
+npm i @material-ui/core
+npm i @material-ui/icons
+
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
