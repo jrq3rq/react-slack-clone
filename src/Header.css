@@ -14,7 +14,7 @@
     margin-left: 20px;
 }
 
-.header__left>.MuiSvgIcon-root {
+.header__left > .MuiSvgIcon-root {
     margin-left: auto;
     margin-right: 30px;
 }
@@ -27,14 +27,14 @@
     padding: 0 50px;
     color: gray;
     border: 1px gray solid;
-    border-radius: 6px;
+    border-radius: 8px;
 }
 
-.header__search>input {
+.header__search > input {
     background-color: transparent;
     border: none;
     text-align: center;
-    min-width: 35vw;
+    min-width: 30vw;
 }
 
 .header__right {
@@ -43,7 +43,7 @@
     align-items: flex-end;
 }
 
-.header__right>.MuiSvgIcon-root {
-    margin-left: auto;
+.header__right > .MuiSvgIcon-root{
     margin-right: 20px;
+    margin-left: auto;
 }
